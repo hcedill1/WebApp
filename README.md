@@ -16,7 +16,7 @@ Adding your name to this README.md file
 
 - adding from local to remote repo 
 
-- command; git status 
+- command: git status 
 
 - this will allow you to see the files that have been changed (marked red)
 
