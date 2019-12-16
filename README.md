@@ -74,4 +74,5 @@ command: git push origin [name_of_your_new_branch]
 
 Developers: 
 
-Hernan 
+Hernan Cedillo
+Edwin Guerrero
