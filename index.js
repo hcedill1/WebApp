@@ -1,16 +1,15 @@
+// Function to change webpage background color
+function changeBodyBg(color){
+    document.body.style.background = color;
+}
 
-let person = {
-    name: 'Hernan',
-    age: 27
-
-};
-
-//Dot notation
-person.name = 'Edwin';
-
-//Braket Notation
-person['name'] = 'Marry';
+// Function to change heading background color
+function changeHeadingBg(color){
+    document.getElementById("heading").style.background = color;
+}
 
 
 
-console.log(person);
+
+
+
