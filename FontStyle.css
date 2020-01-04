@@ -21,6 +21,58 @@
 
 .menu ul li{
     list-style: none;
-    margin:0 60px;
+    margin:0 90px;
     color: #b2b1b1;
 }
+
+.logo img{
+    width: 80px;
+    margin-top: -25px;
+    margin-right: 48px;
+}
+.active_link{
+    color: #19dafa !important;
+}
+
+.calendar-btn{
+    top: 40px;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left,#fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
+}
+.calendar-btn span{
+    display:block;
+    padding:8px 25px;
+
+}
+
+.banner{
+    width:80%;
+    height:70%;
+    top:25%;
+    left:130px;
+    position: absolute;
+    color:#fff;
+}
+
+.apt-text{
+    width: 50%;
+    float:left;
+}
+
+.apt-text h1{
+    font-size: 43px;
+    width: 640px;
+    position: relative;
+    margin-left:40px;
+
+
+}
+
+
