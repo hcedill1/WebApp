@@ -61,18 +61,29 @@
     color:#fff;
 }
 
-.apt-text{
+.text{
     width: 50%;
     float:left;
 }
 
-.apt-text h1{
-    font-size: 43px;
-    width: 640px;
-    position: relative;
-    margin-left:40px;
+.text h1{
+     font-size: 43px;
+     width: 640px;
+     position: relative;
+     margin-left:40px;
 
+ }
+.text p{
+    width: 650px;
+    font-size: 15px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: #919191;
 
+}
+.app-picture{
+    width: 50%;
+    float: right;
 }
 
 
